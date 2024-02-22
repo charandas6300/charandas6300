@@ -18,9 +18,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,mui" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs,react,redux,nextjs" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,cpp,mui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs,react,redux" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman" />
   </a>
          
 </p>
